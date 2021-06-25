@@ -62,7 +62,21 @@ public class EmployeeBean implements Serializable{
 	public void setSalary(double salary) {
 		this.salary = salary;
 	}
+	
+	
+	
+	
+	
+	
+	public void setSalary(double salary) {
+		this.salary = salary;
+	}
 
+	
+	
+	
+	
+	
 	@Override
 	public int hashCode() {
 		final int prime = 31;
